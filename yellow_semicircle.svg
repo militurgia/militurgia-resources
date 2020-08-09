@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="224" height="216" viewBox="0 0 224 216">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Intersección_1" data-name="Intersección 1" d="M0,216V0H224V216Z" transform="translate(0.187)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_7" data-name="Grupo 7" transform="translate(-391.076 -1160.137)">
+    <g id="Grupo_4" data-name="Grupo 4" transform="translate(390.89 1160.137)" clip-path="url(#clip-path)">
+      <g id="Elipse_17" data-name="Elipse 17" transform="translate(-0.824 -208.526)" opacity="0.2">
+        <g id="Grupo_2" data-name="Grupo 2" transform="translate(0)">
+          <ellipse id="Elipse_21" data-name="Elipse 21" cx="222.538" cy="207.702" rx="222.538" ry="207.702" fill="none"/>
+        </g>
+        <g id="Grupo_3" data-name="Grupo 3">
+          <path id="Trazado_5" data-name="Trazado 5" d="M612.928,1449.041c-122.707,0-222.538-93.174-222.538-207.7s99.83-207.7,222.538-207.7,222.538,93.176,222.538,207.7S735.637,1449.041,612.928,1449.041Zm0-346.17c-84.531,0-153.3,62.116-153.3,138.468s68.772,138.468,153.3,138.468,153.3-62.118,153.3-138.468S697.459,1102.871,612.928,1102.871Z" transform="translate(-390.39 -1033.637)" fill="#fdc217"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
